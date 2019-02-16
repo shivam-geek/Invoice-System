@@ -1,0 +1,24 @@
+Log opened at 2018-05-09 12:44:15
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 127.0.0.1:9000. :-|
+E: Time-out connecting to client (Waited: 200 ms). :-(
+Log closed at 2018-05-09 12:44:15
+
+Log opened at 2018-05-09 12:51:17
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 127.0.0.1:9000. :-|
+E: Time-out connecting to client (Waited: 200 ms). :-(
+Log closed at 2018-05-09 12:51:17
+
+Log opened at 2018-05-09 12:51:49
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 127.0.0.1:9000. :-|
+E: Time-out connecting to client (Waited: 200 ms). :-(
+Log closed at 2018-05-09 12:51:49
+
